@@ -1,4 +1,3 @@
-```
 #include<iostream>
 #include<stdio.h>
 #include<Windows.h>
@@ -14,4 +13,4 @@ using namespace std;
 		return 0;
 
 	}
-  ```
+ 
